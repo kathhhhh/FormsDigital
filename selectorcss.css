@@ -1,0 +1,21 @@
+@harset "utf-8";
+
+/* CSS Document */
+
+body {
+    background-color: rgb(231, 186, 235);
+}
+
+h1 {
+    color: rgb(29, 2, 2);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
