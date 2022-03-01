@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: #006600;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+p {
+    color: aquamarine;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: 20px
+}
+
+.borde {
+    border: 1px solid;
+    border-color: #EE82EE;
+}
+
+.parrafo1 {
+    color: rgb(156, 36, 60)
+}
+
+.parrafo2 {
+    color: rgba(166, 29, 184, 0.397)
+}
