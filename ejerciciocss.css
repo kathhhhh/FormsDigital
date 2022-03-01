@@ -1,0 +1,40 @@
+    @charset "utf-8";
+    /* CSS Document */
+    
+    body {
+        background-color: black;
+    }
+    
+    h1 {
+        color: pink;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 80px;
+    }
+    
+    h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 30px;
+        color: violet;
+    }
+    
+    p {
+        color: whitesmoke;
+        text-align: start;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+    }
+    
+    #resaltar {
+        color: indianred;
+    }
+    
+    .centro {
+        text-align: center;
+        color: blueviolet;
+    }
+    
+    p.centrado {
+        text-align: center;
+        color: crimson;
+    }
