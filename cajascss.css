@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    background-image: url(https://revistadigital.inesem.es/diseno-y-artes-graficas/files/2016/08/patrones-de-moire-1020x680.jpg);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+
+div {
+    font-size: 25px;
+    border-style: double;
+    padding: 30px 30px 30px 30px;
+    margin: 20px;
+    border-radius: 15px;
+    border-color: blue;
+    border-width: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightseagreen
+}
+
+h2 {
+    background-color: mediumseagreen;
+    border-style: double;
+    padding: 15px 15px 15px 15px;
+    margin: 40px;
+    border-radius: 15px;
+    border-color: aliceblue;
+    border-width: inherit;
+    height: 25px;
+    width: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
