@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;500;600;700&display=swap');
+
+
+@charset "utf-8";
+/* CSS Document */
+body {
+	color: white;
+	background-color: black;
+	margin: 0;
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	margin: 50px auto 0 auto;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 7.625rem;
+	text-align: center;
+}
+h2 {
+	font-family: 'Montserrat Alternates', sans-serif;
+	 text-align: center;
+}
+
+p{
+	font-family: 'Montserrat Alternates', sans-serif;
+	margin-right: 20px;	
+	margin-left: 20px;
+}
+
+img{
+	border-style: none
+    padding: 50px 50px 50px 50px;
+    margin: 20px;
+    border-radius: 400px;	
+}
+
+div{
+	text-align: start;
+	font-family: 'Montserrat Alternates', sans-serif;
+	margin-right: 20px;	
+	margin-left: 50px;
+}
+
+.azul{
+	color: blue
+	font-family: 'Montserrat Alternates', sans-serif;
+	margin-right: 20px;	
+	margin-left: 50px;
+	text-aling: center;
+}
+
+a{
+	font-family: 'Montserrat Alternates', sans-serif;
+	margin-right: 20px;	
+	margin-left: 20px;
+	text-decoration: none;
+}
+
+.adeco{
+	color: white;
+	background-color: blue;
+	border-radius: 40px;
+	padding: 8px 8px 8px 8px;
+}
+
+.imlogo{
+    margin: 20px;
+	border-radius: 0;
+}
